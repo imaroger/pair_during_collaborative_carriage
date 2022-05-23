@@ -1,0 +1,762 @@
+{
+    "Sujet1_Adénikè&Sujet2_Médéric": {
+        "d1_p4_gris_1": {
+            "Duration (s)": 13.455,
+            "Mean_velocity (m.s^-1)": 0.31849427144497705
+        },
+        "d1_p4_jaune_1": {
+            "Duration (s)": 10.065,
+            "Mean_velocity (m.s^-1)": 0.410352943909911
+        },
+        "d1_p5_gris_1": {
+            "Duration (s)": 9.495,
+            "Mean_velocity (m.s^-1)": 0.365845627178447
+        },
+        "d1_p5_jaune_1": {
+            "Duration (s)": 7.465,
+            "Mean_velocity (m.s^-1)": 0.40443721176407005
+        },
+        "d1_p6_gris_1": {
+            "Duration (s)": 14.46,
+            "Mean_velocity (m.s^-1)": 0.406863156518338
+        },
+        "d1_p6_jaune_1": {
+            "Duration (s)": 15.305,
+            "Mean_velocity (m.s^-1)": 0.393199783510632
+        },
+        "d2_p7_gris_1": {
+            "Duration (s)": 13.305,
+            "Mean_velocity (m.s^-1)": 0.38032710976198003
+        },
+        "d2_p7_jaune_1": {
+            "Duration (s)": 13.225,
+            "Mean_velocity (m.s^-1)": 0.36124613813015904
+        },
+        "d3_p7_gris_1": {
+            "Duration (s)": 10.775,
+            "Mean_velocity (m.s^-1)": 0.433801648428641
+        }
+    },
+    "Sujet1_Alexia&Sujet2_Bénédicte": {
+        "d1_p4_gris_1": {
+            "Duration (s)": 6.685,
+            "Mean_velocity (m.s^-1)": 0.598265757415361
+        },
+        "d1_p4_jaune_1": {
+            "Duration (s)": 6.075,
+            "Mean_velocity (m.s^-1)": 0.647983679305308
+        },
+        "d1_p5_gris_1": {
+            "Duration (s)": 6.075,
+            "Mean_velocity (m.s^-1)": 0.5306706547241211
+        },
+        "d1_p5_jaune_1": {
+            "Duration (s)": 5.915,
+            "Mean_velocity (m.s^-1)": 0.48404075869803703
+        },
+        "d1_p6_gris_1": {
+            "Duration (s)": 9.075,
+            "Mean_velocity (m.s^-1)": 0.661773127094191
+        },
+        "d1_p6_jaune_1": {
+            "Duration (s)": 8.45,
+            "Mean_velocity (m.s^-1)": 0.649585592473008
+        },
+        "d2_p7_gris_1": {
+            "Duration (s)": 7.56,
+            "Mean_velocity (m.s^-1)": 0.653572961599601
+        },
+        "d2_p7_jaune_1": {
+            "Duration (s)": 7.07,
+            "Mean_velocity (m.s^-1)": 0.653000739340013
+        },
+        "d3_p7_gris_1": {
+            "Duration (s)": 8.705,
+            "Mean_velocity (m.s^-1)": 0.524798926950865
+        }
+    },
+    "Sujet1_Alexis&Sujet2_Thibaud": {
+        "d1_p4_gris_1": {
+            "Duration (s)": 8.3,
+            "Mean_velocity (m.s^-1)": 0.478035413910547
+        },
+        "d1_p4_jaune_1": {
+            "Duration (s)": 6.215,
+            "Mean_velocity (m.s^-1)": 0.631783401215508
+        },
+        "d1_p5_gris_1": {
+            "Duration (s)": 10.76,
+            "Mean_velocity (m.s^-1)": 0.407813364830951
+        },
+        "d1_p5_jaune_1": {
+            "Duration (s)": 5.91,
+            "Mean_velocity (m.s^-1)": 0.48917667158709205
+        },
+        "d1_p6_gris_1": {
+            "Duration (s)": 8.43,
+            "Mean_velocity (m.s^-1)": 0.648748750901362
+        },
+        "d1_p6_jaune_1": {
+            "Duration (s)": 7.665,
+            "Mean_velocity (m.s^-1)": 0.714728714645299
+        },
+        "d2_p7_gris_1": {
+            "Duration (s)": 9.58,
+            "Mean_velocity (m.s^-1)": 0.504495590685074
+        },
+        "d2_p7_jaune_1": {
+            "Duration (s)": 7.74,
+            "Mean_velocity (m.s^-1)": 0.590229212478093
+        },
+        "d3_p7_gris_1": {
+            "Duration (s)": 7.535,
+            "Mean_velocity (m.s^-1)": 0.608329423213728
+        }
+    },
+    "Sujet1_Amaury&Sujet2_Jason": {
+        "d1_p4_gris_1": {
+            "Duration (s)": 7.6,
+            "Mean_velocity (m.s^-1)": 0.52156675169424
+        },
+        "d1_p4_jaune_1": {
+            "Duration (s)": 7.575,
+            "Mean_velocity (m.s^-1)": 0.507127044509692
+        },
+        "d1_p5_gris_1": {
+            "Duration (s)": 7.43,
+            "Mean_velocity (m.s^-1)": 0.450459349774097
+        },
+        "d1_p5_jaune_1": {
+            "Duration (s)": 6.885,
+            "Mean_velocity (m.s^-1)": 0.403721147995446
+        },
+        "d1_p6_gris_1": {
+            "Duration (s)": 10.86,
+            "Mean_velocity (m.s^-1)": 0.527489016749512
+        },
+        "d1_p6_jaune_1": {
+            "Duration (s)": 10.03,
+            "Mean_velocity (m.s^-1)": 0.568432762377324
+        },
+        "d2_p7_gris_1": {
+            "Duration (s)": 9.94,
+            "Mean_velocity (m.s^-1)": 0.501956700234748
+        },
+        "d2_p7_jaune_1": {
+            "Duration (s)": 10.745,
+            "Mean_velocity (m.s^-1)": 0.43557551642132397
+        },
+        "d3_p7_gris_1": {
+            "Duration (s)": 8.81,
+            "Mean_velocity (m.s^-1)": 0.519474019066098
+        }
+    },
+    "Sujet1_Anaïs&Sujet2_Mariem": {
+        "d1_p4_gris_1": {
+            "Duration (s)": 9.245,
+            "Mean_velocity (m.s^-1)": 0.491332828288263
+        },
+        "d1_p4_jaune_1": {
+            "Duration (s)": 7.385,
+            "Mean_velocity (m.s^-1)": 0.5323502977416851
+        },
+        "d1_p5_gris_1": {
+            "Duration (s)": 7.795,
+            "Mean_velocity (m.s^-1)": 0.404326907998308
+        },
+        "d1_p5_jaune_1": {
+            "Duration (s)": 6.645,
+            "Mean_velocity (m.s^-1)": 0.42651578996774403
+        },
+        "d1_p6_gris_1": {
+            "Duration (s)": 11.04,
+            "Mean_velocity (m.s^-1)": 0.528352900521916
+        },
+        "d1_p6_jaune_1": {
+            "Duration (s)": 9.855,
+            "Mean_velocity (m.s^-1)": 0.560820998173582
+        },
+        "d2_p7_gris_1": {
+            "Duration (s)": 9.445,
+            "Mean_velocity (m.s^-1)": 0.520579399074229
+        },
+        "d2_p7_jaune_1": {
+            "Duration (s)": 10.06,
+            "Mean_velocity (m.s^-1)": 0.457422104149157
+        },
+        "d3_p7_gris_1": {
+            "Duration (s)": 7.725,
+            "Mean_velocity (m.s^-1)": 0.582830082821175
+        }
+    },
+    "Sujet1_Aniss&Sujet2_Louise": {
+        "d1_p4_gris_1": {
+            "Duration (s)": 9.56,
+            "Mean_velocity (m.s^-1)": 0.41459766604893006
+        },
+        "d1_p4_jaune_1": {
+            "Duration (s)": 13.2,
+            "Mean_velocity (m.s^-1)": 0.359746774864535
+        },
+        "d1_p5_gris_1": {
+            "Duration (s)": 8.21,
+            "Mean_velocity (m.s^-1)": 0.376888413390937
+        },
+        "d1_p5_jaune_1": {
+            "Duration (s)": 8.27,
+            "Mean_velocity (m.s^-1)": 0.35201705628017205
+        },
+        "d1_p6_gris_1": {
+            "Duration (s)": 12.6,
+            "Mean_velocity (m.s^-1)": 0.462812417208407
+        },
+        "d1_p6_jaune_1": {
+            "Duration (s)": 14.76,
+            "Mean_velocity (m.s^-1)": 0.387044680148807
+        },
+        "d2_p7_gris_1": {
+            "Duration (s)": 11.5,
+            "Mean_velocity (m.s^-1)": 0.429674123776971
+        },
+        "d2_p7_jaune_1": {
+            "Duration (s)": 10.975,
+            "Mean_velocity (m.s^-1)": 0.42017034027264905
+        },
+        "d3_p7_gris_1": {
+            "Duration (s)": 11.23,
+            "Mean_velocity (m.s^-1)": 0.421583056292184
+        }
+    },
+    "Sujet1_Antoine&Sujet2_Médéric_LAAS": {
+        "d1_p4_gris_1": {
+            "Duration (s)": 8.32,
+            "Mean_velocity (m.s^-1)": 0.470215735958263
+        },
+        "d1_p4_jaune_1": {
+            "Duration (s)": 9.32,
+            "Mean_velocity (m.s^-1)": 0.440190450308796
+        },
+        "d1_p5_gris_1": {
+            "Duration (s)": 7.105,
+            "Mean_velocity (m.s^-1)": 0.452382660787336
+        },
+        "d1_p5_jaune_1": {
+            "Duration (s)": 7.835,
+            "Mean_velocity (m.s^-1)": 0.37881264829275396
+        },
+        "d1_p6_gris_1": {
+            "Duration (s)": 9.155,
+            "Mean_velocity (m.s^-1)": 0.626060284220326
+        },
+        "d1_p6_jaune_1": {
+            "Duration (s)": 10.435,
+            "Mean_velocity (m.s^-1)": 0.542098868081052
+        },
+        "d2_p7_gris_1": {
+            "Duration (s)": 13.995,
+            "Mean_velocity (m.s^-1)": 0.352462914519317
+        },
+        "d2_p7_jaune_1": {
+            "Duration (s)": 8.225,
+            "Mean_velocity (m.s^-1)": 0.5620545787618441
+        },
+        "d3_p7_gris_1": {
+            "Duration (s)": 7.87,
+            "Mean_velocity (m.s^-1)": 0.592928021500199
+        }
+    },
+    "Sujet1_Aurélie&Sujet2_Stanislas": {
+        "d1_p4_gris_1": {
+            "Duration (s)": 9.495,
+            "Mean_velocity (m.s^-1)": 0.432963844058951
+        },
+        "d1_p4_jaune_1": {
+            "Duration (s)": 8.07,
+            "Mean_velocity (m.s^-1)": 0.493166614470261
+        },
+        "d1_p5_gris_1": {
+            "Duration (s)": 7.64,
+            "Mean_velocity (m.s^-1)": 0.417805782165249
+        },
+        "d1_p5_jaune_1": {
+            "Duration (s)": 6.93,
+            "Mean_velocity (m.s^-1)": 0.401633411828648
+        },
+        "d1_p6_gris_1": {
+            "Duration (s)": 11.11,
+            "Mean_velocity (m.s^-1)": 0.511512420179319
+        },
+        "d1_p6_jaune_1": {
+            "Duration (s)": 12.075,
+            "Mean_velocity (m.s^-1)": 0.487962604968539
+        },
+        "d2_p7_gris_1": {
+            "Duration (s)": 10.055,
+            "Mean_velocity (m.s^-1)": 0.47341948428590097
+        },
+        "d2_p7_jaune_1": {
+            "Duration (s)": 9.755,
+            "Mean_velocity (m.s^-1)": 0.510348480650476
+        },
+        "d3_p7_gris_1": {
+            "Duration (s)": 12.105,
+            "Mean_velocity (m.s^-1)": 0.394721984874162
+        }
+    },
+    "Sujet1_Fanny&Sujet2_William": {
+        "d1_p4_gris_1": {
+            "Duration (s)": 7.745,
+            "Mean_velocity (m.s^-1)": 0.52418456657925
+        },
+        "d1_p4_jaune_1": {
+            "Duration (s)": 10.66,
+            "Mean_velocity (m.s^-1)": 0.37948282708416203
+        },
+        "d1_p5_gris_1": {
+            "Duration (s)": 7.115,
+            "Mean_velocity (m.s^-1)": 0.42248767835534
+        },
+        "d1_p5_jaune_1": {
+            "Duration (s)": 6.895,
+            "Mean_velocity (m.s^-1)": 0.41608457820616
+        },
+        "d1_p6_gris_1": {
+            "Duration (s)": 12.33,
+            "Mean_velocity (m.s^-1)": 0.492277634006834
+        },
+        "d1_p6_jaune_1": {
+            "Duration (s)": 9.49,
+            "Mean_velocity (m.s^-1)": 0.5939515129467581
+        },
+        "d2_p7_gris_1": {
+            "Duration (s)": 8.17,
+            "Mean_velocity (m.s^-1)": 0.594836984429252
+        },
+        "d2_p7_jaune_1": {
+            "Duration (s)": 10.99,
+            "Mean_velocity (m.s^-1)": 0.437527700208849
+        },
+        "d3_p7_gris_1": {
+            "Duration (s)": 7.31,
+            "Mean_velocity (m.s^-1)": 0.6321274670794731
+        }
+    },
+    "Sujet1_Guilhem&Sujet2_César": {
+        "d1_p4_gris_1": {
+            "Duration (s)": 8.42,
+            "Mean_velocity (m.s^-1)": 0.506204681252195
+        },
+        "d1_p4_jaune_1": {
+            "Duration (s)": 8.835,
+            "Mean_velocity (m.s^-1)": 0.474890473708572
+        },
+        "d1_p5_gris_1": {
+            "Duration (s)": 11.15,
+            "Mean_velocity (m.s^-1)": 0.28195778708005204
+        },
+        "d1_p5_jaune_1": {
+            "Duration (s)": 8.29,
+            "Mean_velocity (m.s^-1)": 0.511131290990327
+        },
+        "d1_p6_gris_1": {
+            "Duration (s)": 11.675,
+            "Mean_velocity (m.s^-1)": 0.533441033502645
+        },
+        "d1_p6_jaune_1": {
+            "Duration (s)": 12.1,
+            "Mean_velocity (m.s^-1)": 0.61526933137479
+        },
+        "d2_p7_gris_1": {
+            "Duration (s)": 6.94,
+            "Mean_velocity (m.s^-1)": 0.716026439837239
+        },
+        "d2_p7_jaune_1": {
+            "Duration (s)": 8.46,
+            "Mean_velocity (m.s^-1)": 0.5893547755586149
+        },
+        "d3_p7_gris_1": {
+            "Duration (s)": 12.365,
+            "Mean_velocity (m.s^-1)": 0.44175103661762
+        }
+    },
+    "Sujet1_Hugo&Sujet2_Alexandre": {
+        "d1_p4_gris_1": {
+            "Duration (s)": 8.195,
+            "Mean_velocity (m.s^-1)": 0.510654633067138
+        },
+        "d1_p4_jaune_1": {
+            "Duration (s)": 7.155,
+            "Mean_velocity (m.s^-1)": 0.5799786183605251
+        },
+        "d1_p5_gris_1": {
+            "Duration (s)": 9.035,
+            "Mean_velocity (m.s^-1)": 0.40185626483812303
+        },
+        "d1_p5_jaune_1": {
+            "Duration (s)": 6.89,
+            "Mean_velocity (m.s^-1)": 0.409498832634865
+        },
+        "d1_p6_gris_1": {
+            "Duration (s)": 9.42,
+            "Mean_velocity (m.s^-1)": 0.5835563771847531
+        },
+        "d1_p6_jaune_1": {
+            "Duration (s)": 9.785,
+            "Mean_velocity (m.s^-1)": 0.5903729158951889
+        },
+        "d2_p7_gris_1": {
+            "Duration (s)": 9.23,
+            "Mean_velocity (m.s^-1)": 0.524535390860804
+        },
+        "d2_p7_jaune_1": {
+            "Duration (s)": 9.03,
+            "Mean_velocity (m.s^-1)": 0.533888745709573
+        },
+        "d3_p7_gris_1": {
+            "Duration (s)": 8.48,
+            "Mean_velocity (m.s^-1)": 0.542569175208053
+        }
+    },
+    "Sujet1_Marine&Sujet2_Hélène": {
+        "d1_p4_gris_1": {
+            "Duration (s)": 9.405,
+            "Mean_velocity (m.s^-1)": 0.43358233553526
+        },
+        "d1_p4_jaune_1": {
+            "Duration (s)": 8.805,
+            "Mean_velocity (m.s^-1)": 0.45887143836877303
+        },
+        "d1_p5_gris_1": {
+            "Duration (s)": 11.435,
+            "Mean_velocity (m.s^-1)": 0.325615113062719
+        },
+        "d1_p5_jaune_1": {
+            "Duration (s)": 6.69,
+            "Mean_velocity (m.s^-1)": 0.42851883041432004
+        },
+        "d1_p6_gris_1": {
+            "Duration (s)": 13.495,
+            "Mean_velocity (m.s^-1)": 0.46585222666257103
+        },
+        "d1_p6_jaune_1": {
+            "Duration (s)": 12.825,
+            "Mean_velocity (m.s^-1)": 0.466653923205556
+        },
+        "d2_p7_gris_1": {
+            "Duration (s)": 12.11,
+            "Mean_velocity (m.s^-1)": 0.415587410880105
+        },
+        "d2_p7_jaune_1": {
+            "Duration (s)": 12.375,
+            "Mean_velocity (m.s^-1)": 0.366817559857635
+        },
+        "d3_p7_gris_1": {
+            "Duration (s)": 9.74,
+            "Mean_velocity (m.s^-1)": 0.477224099383058
+        }
+    },
+    "Sujet1_Paul&Sujet2_Mathieu": {
+        "d1_p4_gris_1": {
+            "Duration (s)": 6.81,
+            "Mean_velocity (m.s^-1)": 0.5837422755246809
+        },
+        "d1_p4_jaune_1": {
+            "Duration (s)": 10.08,
+            "Mean_velocity (m.s^-1)": 0.41067888816521797
+        },
+        "d1_p5_gris_1": {
+            "Duration (s)": 5.125,
+            "Mean_velocity (m.s^-1)": 0.576991442508063
+        },
+        "d1_p5_jaune_1": {
+            "Duration (s)": 5.7,
+            "Mean_velocity (m.s^-1)": 0.500586993233693
+        },
+        "d1_p6_gris_1": {
+            "Duration (s)": 9.215,
+            "Mean_velocity (m.s^-1)": 0.596999593577065
+        },
+        "d1_p6_jaune_1": {
+            "Duration (s)": 8.935,
+            "Mean_velocity (m.s^-1)": 0.6219531245372321
+        },
+        "d2_p7_gris_1": {
+            "Duration (s)": 8.18,
+            "Mean_velocity (m.s^-1)": 0.5998697738240599
+        },
+        "d2_p7_jaune_1": {
+            "Duration (s)": 8.115,
+            "Mean_velocity (m.s^-1)": 0.587692165208921
+        },
+        "d3_p7_gris_1": {
+            "Duration (s)": 9.395,
+            "Mean_velocity (m.s^-1)": 0.49664560532651597
+        }
+    },
+    "Sujet1_Romane&Sujet2_Corentin": {
+        "d1_p4_gris_1": {
+            "Duration (s)": 6.82,
+            "Mean_velocity (m.s^-1)": 0.577076570476361
+        },
+        "d1_p4_jaune_1": {
+            "Duration (s)": 8.49,
+            "Mean_velocity (m.s^-1)": 0.47425921734534504
+        },
+        "d1_p5_gris_1": {
+            "Duration (s)": 6.95,
+            "Mean_velocity (m.s^-1)": 0.47005415694970704
+        },
+        "d1_p5_jaune_1": {
+            "Duration (s)": 5.46,
+            "Mean_velocity (m.s^-1)": 0.520820573505248
+        },
+        "d1_p6_gris_1": {
+            "Duration (s)": 9.815,
+            "Mean_velocity (m.s^-1)": 0.570170513760236
+        },
+        "d1_p6_jaune_1": {
+            "Duration (s)": 11.24,
+            "Mean_velocity (m.s^-1)": 0.5555995848252491
+        },
+        "d2_p7_gris_1": {
+            "Duration (s)": 11.08,
+            "Mean_velocity (m.s^-1)": 0.434384347211545
+        },
+        "d2_p7_jaune_1": {
+            "Duration (s)": 7.76,
+            "Mean_velocity (m.s^-1)": 0.584303589708877
+        },
+        "d3_p7_gris_1": {
+            "Duration (s)": 7.465,
+            "Mean_velocity (m.s^-1)": 0.604521163139734
+        }
+    },
+    "Sujet1_Rémy&Sujet2_Margaux": {
+        "d1_p4_gris_1": {
+            "Duration (s)": 9.13,
+            "Mean_velocity (m.s^-1)": 0.465018655731742
+        },
+        "d1_p4_jaune_1": {
+            "Duration (s)": 7.025,
+            "Mean_velocity (m.s^-1)": 0.575154833513915
+        },
+        "d1_p5_gris_1": {
+            "Duration (s)": 7.635,
+            "Mean_velocity (m.s^-1)": 0.407428102801055
+        },
+        "d1_p5_jaune_1": {
+            "Duration (s)": 5.95,
+            "Mean_velocity (m.s^-1)": 0.480170463566826
+        },
+        "d1_p6_gris_1": {
+            "Duration (s)": 9.225,
+            "Mean_velocity (m.s^-1)": 0.660123962805363
+        },
+        "d1_p6_jaune_1": {
+            "Duration (s)": 8.36,
+            "Mean_velocity (m.s^-1)": 0.6547493785743871
+        },
+        "d2_p7_gris_1": {
+            "Duration (s)": 8.3,
+            "Mean_velocity (m.s^-1)": 0.5763312187894309
+        },
+        "d2_p7_jaune_1": {
+            "Duration (s)": 8.98,
+            "Mean_velocity (m.s^-1)": 0.508058934711306
+        },
+        "d3_p7_gris_1": {
+            "Duration (s)": 7.02,
+            "Mean_velocity (m.s^-1)": 0.6467666832408291
+        }
+    },
+    "Sujet1_Sabrina&Sujet2_Quentin": {
+        "d1_p4_gris_1": {
+            "Duration (s)": 9.625,
+            "Mean_velocity (m.s^-1)": 0.413942997446322
+        },
+        "d1_p4_jaune_1": {
+            "Duration (s)": 10.495,
+            "Mean_velocity (m.s^-1)": 0.388035894865167
+        },
+        "d1_p5_gris_1": {
+            "Duration (s)": 8.32,
+            "Mean_velocity (m.s^-1)": 0.36770022751806
+        },
+        "d1_p5_jaune_1": {
+            "Duration (s)": 6.95,
+            "Mean_velocity (m.s^-1)": 0.42309406121325205
+        },
+        "d1_p6_gris_1": {
+            "Duration (s)": 11.925,
+            "Mean_velocity (m.s^-1)": 0.499303015278994
+        },
+        "d1_p6_jaune_1": {
+            "Duration (s)": 12.69,
+            "Mean_velocity (m.s^-1)": 0.465184606987691
+        },
+        "d2_p7_gris_1": {
+            "Duration (s)": 12.075,
+            "Mean_velocity (m.s^-1)": 0.40320138096717
+        },
+        "d2_p7_jaune_1": {
+            "Duration (s)": 9.84,
+            "Mean_velocity (m.s^-1)": 0.461112100847285
+        },
+        "d3_p7_gris_1": {
+            "Duration (s)": 9.99,
+            "Mean_velocity (m.s^-1)": 0.461099253349334
+        }
+    },
+    "Sujet1_Stéphane&Sujet2_Angélique": {
+        "d1_p4_gris_1": {
+            "Duration (s)": 10.565,
+            "Mean_velocity (m.s^-1)": 0.400253128580874
+        },
+        "d1_p4_jaune_1": {
+            "Duration (s)": 9.545,
+            "Mean_velocity (m.s^-1)": 0.40857509521524005
+        },
+        "d1_p5_gris_1": {
+            "Duration (s)": 8.685,
+            "Mean_velocity (m.s^-1)": 0.34778735740203703
+        },
+        "d1_p5_jaune_1": {
+            "Duration (s)": 8.68,
+            "Mean_velocity (m.s^-1)": 0.331204225973548
+        },
+        "d1_p6_gris_1": {
+            "Duration (s)": 11.77,
+            "Mean_velocity (m.s^-1)": 0.490879110148934
+        },
+        "d1_p6_jaune_1": {
+            "Duration (s)": 12.53,
+            "Mean_velocity (m.s^-1)": 0.439790504951306
+        },
+        "d2_p7_gris_1": {
+            "Duration (s)": 12.775,
+            "Mean_velocity (m.s^-1)": 0.38462409103759304
+        },
+        "d2_p7_jaune_1": {
+            "Duration (s)": 12.095,
+            "Mean_velocity (m.s^-1)": 0.38032412414262
+        },
+        "d3_p7_gris_1": {
+            "Duration (s)": 15.515,
+            "Mean_velocity (m.s^-1)": 0.32394172095540896
+        }
+    },
+    "Sujet1_Sébastien&Sujet2_Nils": {
+        "d1_p4_gris_1": {
+            "Duration (s)": 9.66,
+            "Mean_velocity (m.s^-1)": 0.42338315570033397
+        },
+        "d1_p4_jaune_1": {
+            "Duration (s)": 7.295,
+            "Mean_velocity (m.s^-1)": 0.5274928726910261
+        },
+        "d1_p5_gris_1": {
+            "Duration (s)": 8.89,
+            "Mean_velocity (m.s^-1)": 0.352397166726702
+        },
+        "d1_p5_jaune_1": {
+            "Duration (s)": 8.625,
+            "Mean_velocity (m.s^-1)": 0.434586786636493
+        },
+        "d1_p6_gris_1": {
+            "Duration (s)": 11.98,
+            "Mean_velocity (m.s^-1)": 0.46401766410671597
+        },
+        "d1_p6_jaune_1": {
+            "Duration (s)": 9.735,
+            "Mean_velocity (m.s^-1)": 0.5679280493266861
+        },
+        "d2_p7_gris_1": {
+            "Duration (s)": 13.8,
+            "Mean_velocity (m.s^-1)": 0.360286973917255
+        },
+        "d2_p7_jaune_1": {
+            "Duration (s)": 10.465,
+            "Mean_velocity (m.s^-1)": 0.447741273684119
+        },
+        "d3_p7_gris_1": {
+            "Duration (s)": 15.12,
+            "Mean_velocity (m.s^-1)": 0.31958715715540303
+        }
+    },
+    "Sujet1_Thanh&Sujet2_Diane": {
+        "d1_p4_gris_1": {
+            "Duration (s)": 8.725,
+            "Mean_velocity (m.s^-1)": 0.457668573360802
+        },
+        "d1_p4_jaune_1": {
+            "Duration (s)": 8.92,
+            "Mean_velocity (m.s^-1)": 0.44447102880481604
+        },
+        "d1_p5_gris_1": {
+            "Duration (s)": 11.4,
+            "Mean_velocity (m.s^-1)": 0.265156760572581
+        },
+        "d1_p5_jaune_1": {
+            "Duration (s)": 7.025,
+            "Mean_velocity (m.s^-1)": 0.418147359916226
+        },
+        "d1_p6_gris_1": {
+            "Duration (s)": 15.585,
+            "Mean_velocity (m.s^-1)": 0.375629240590553
+        },
+        "d1_p6_jaune_1": {
+            "Duration (s)": 11.4,
+            "Mean_velocity (m.s^-1)": 0.48887922881877105
+        },
+        "d2_p7_gris_1": {
+            "Duration (s)": 9.71,
+            "Mean_velocity (m.s^-1)": 0.49700658364923206
+        },
+        "d2_p7_jaune_1": {
+            "Duration (s)": 11.28,
+            "Mean_velocity (m.s^-1)": 0.416046993984498
+        },
+        "d3_p7_gris_1": {
+            "Duration (s)": 11.655,
+            "Mean_velocity (m.s^-1)": 0.414354235145506
+        }
+    },
+    "Sujet1_Zaki&Sujet2_Yanis": {
+        "d1_p4_gris_1": {
+            "Duration (s)": 14.235,
+            "Mean_velocity (m.s^-1)": 0.29622236301064697
+        },
+        "d1_p4_jaune_1": {
+            "Duration (s)": 11.445,
+            "Mean_velocity (m.s^-1)": 0.357625755339377
+        },
+        "d1_p5_gris_1": {
+            "Duration (s)": 9.505,
+            "Mean_velocity (m.s^-1)": 0.302807101706409
+        },
+        "d1_p5_jaune_1": {
+            "Duration (s)": 8.1,
+            "Mean_velocity (m.s^-1)": 0.385101856013632
+        },
+        "d1_p6_gris_1": {
+            "Duration (s)": 12.45,
+            "Mean_velocity (m.s^-1)": 0.451088374879659
+        },
+        "d1_p6_jaune_1": {
+            "Duration (s)": 11.88,
+            "Mean_velocity (m.s^-1)": 0.48249861610909
+        },
+        "d2_p7_gris_1": {
+            "Duration (s)": 10.25,
+            "Mean_velocity (m.s^-1)": 0.469796091847944
+        },
+        "d2_p7_jaune_1": {
+            "Duration (s)": 11.71,
+            "Mean_velocity (m.s^-1)": 0.40473044851565604
+        },
+        "d3_p7_gris_1": {
+            "Duration (s)": 12.145,
+            "Mean_velocity (m.s^-1)": 0.394534990732736
+        }
+    }
+}
